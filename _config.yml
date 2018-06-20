@@ -1,0 +1,18 @@
+# Site settings
+title: Go Public
+owner: Go Public
+email: jenny.abramov@gmail.com
+whoami: Practicing public speaking togetther
+description: ""
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://jennyabr.github.io/" # the base hostname & protocol for your site
+
+social-facebook: https://www.facebook.com/GoPublicIL/
+social-youtube: https://www.youtube.com/channel/UCt5PQ3ndFTlZ_i_QqsMd87A
+  
+quote: Excellence demands effort and planned, deliberate practice of increasing difficulty.
+quote-by: K. Anders Ericsson
+
+# Build settings
+markdown: kramdown
+
