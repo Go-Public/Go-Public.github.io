@@ -209,11 +209,10 @@ header {
     text-align: center;
     color: $theme-primary-light;
     .overlay { 
-    	display: #002244;
     	position: absolute;
     	width: 100%;
     	height: 100%;
-    	background: black;
+    	background: #0000003d;
     	opacity: 0.5;
     	top: 0;
     }
