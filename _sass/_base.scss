@@ -90,11 +90,14 @@ a {
 }
 
 h1, h2  { font-family: 'Varela Round', cursive; }
-h1.gp-name { 
+h1.gp-name-go { 
 	font-family: 'Oswald', sans-serif;                 
 	font-weight: 800;
-        text-transform: uppercase;
 } 
+h1.gp-name-public { 
+	font-family: 'Exo', sans-serif;                 
+	font-weight: 800;
+}
 h2.gp-subtitle { font-family: 'Exo', cursive; }
 h3, h4 { font-family: 'Varela Round', sans-serif; }
 h5, h6 { font-family: 'Rubik', sans-serif; }
