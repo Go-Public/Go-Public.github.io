@@ -1,3 +1,12 @@
+.gp-name-go { 
+	font-family: 'Oswald', sans-serif;                 
+	font-weight: 800;
+} 
+.gp-name-public { 
+	font-family: 'Exo', sans-serif;                 
+	font-weight: 800;
+	text-transform: uppercase;
+}
 .social { margin: 20px 10px; }
 .social a, .social a:hover { text-decoration: none; }
 
@@ -90,15 +99,6 @@ a {
 }
 
 h1, h2  { font-family: 'Varela Round', cursive; }
-.gp-name-go { 
-	font-family: 'Oswald', sans-serif;                 
-	font-weight: 800;
-} 
-.gp-name-public { 
-	font-family: 'Exo', sans-serif;                 
-	font-weight: 800;
-	text-transform: uppercase;
-}
 h2.gp-subtitle { font-family: 'Exo', cursive; }
 h3, h4 { font-family: 'Varela Round', sans-serif; }
 h5, h6 { font-family: 'Rubik', sans-serif; }
