@@ -72,8 +72,8 @@ body {
 
 body {
     @include serif-font;
-    text-align: left;
-    direction: ltr; 
+    direction: rtl;
+    text-align: right;
 }
 
 hr {
