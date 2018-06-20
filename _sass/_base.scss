@@ -90,13 +90,14 @@ a {
 }
 
 h1, h2  { font-family: 'Varela Round', cursive; }
-h1.gp-name-go { 
+h1.gp-name .gp-name-go { 
 	font-family: 'Oswald', sans-serif;                 
 	font-weight: 800;
 } 
-h1.gp-name-public { 
+h1.gp-name .gp-name-public { 
 	font-family: 'Exo', sans-serif;                 
 	font-weight: 800;
+	text-transform: uppercase;
 }
 h2.gp-subtitle { font-family: 'Exo', cursive; }
 h3, h4 { font-family: 'Varela Round', sans-serif; }
@@ -237,8 +238,7 @@ header {
                 font-size: 16px;
                 margin-bottom: 50px;
             }
-	    #hello { font-size: 28px; }
-	    #name  { font-size: 38px; }
+	    #name  { font-size: 95px; }
         }
     }
     .bottom { position: absolute; width: 100%; bottom: 10px; }
