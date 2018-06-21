@@ -64,7 +64,7 @@ svg path { fill: $theme-primary-light; }
 
 footer { margin: 0px; min-height: 30%; width: 100% !important; padding: 40px;}
 footer>row { max-width: 600px; margin: auto; }
-footer .quote    { font-family: 'Exo', sans-serif; font-weight: bold; font-size: 26px; padding: 10px 25px 50px; }
+footer .quote    { font-family: 'Exo', sans-serif; font-weight: bold; font-size: 26px; padding: 10px 25px 50px; direction: ltr;}
 footer .quote .i  { display: block; }
 footer .quote-by { font-weight: 400; font-size: 18px; padding: 10px 0px; }
  @media (min-width: 768px) {
