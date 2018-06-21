@@ -111,9 +111,9 @@ a {
 
 h1, h2  { font-family: 'Varela Round', cursive; }
 h2 { font-weight: 600; font-size: 40px; }
-h2.gp-subtitle { font-family: 'Exo', cursive; font-weight: 400; }
+h2.gp-subtitle { font-family: 'Exo', cursive; font-weight: 400; font-size: 18px;}
 @media (min-width: 768px) { h2.gp-subtitle { font-size: 28px; } }
-@media (min-width: 550px) { h2.gp-subtitle { font-size: 18px; } }
+@media (min-width: 992px) { h2.gp-subtitle { font-size: 40px; } }
 h3, h4 { font-family: 'Varela Round', sans-serif; }
 h5, h6 { font-family: 'Rubik', sans-serif; }
 
