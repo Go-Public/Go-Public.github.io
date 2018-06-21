@@ -95,6 +95,10 @@ hr {
     border-width: 2px;
     max-width: 50%;
 }
+.separator {
+    padding: 10px 0;
+    min-height: auto;
+}
 hr.light { border-color: $theme-primary-light; }
 
 a {
