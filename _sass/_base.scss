@@ -91,7 +91,10 @@ hr {
     border-width: 3px;
     max-width: 50px;
 }
-
+.big-separator{
+    border-width: 2px;
+    max-width: 50%;
+}
 hr.light { border-color: $theme-primary-light; }
 
 a {
