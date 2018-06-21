@@ -221,7 +221,7 @@ header {
     min-height: auto;
     @include background-cover;
     background-position: left;
-    background-image: url('../img/bg.jpg');
+    background-image: url('../img/gp_mentor2.jpg.jpg');
     transition: background-image 1s ease-in-out;
     text-align: center;
     color: $theme-primary-light;
@@ -229,7 +229,7 @@ header {
     	position: absolute;
     	width: 100%;
     	height: 100%;
-    	background: #0000003d;
+    	background: black;
     	opacity: 0.5;
     	top: 0;
     }
