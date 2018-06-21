@@ -92,6 +92,11 @@ hr {
     max-width: 50px;
 }
 
+hr.big {
+    border-width: 2px;
+    max-width: 50%;
+}
+
 hr.light { border-color: $theme-primary-light; }
 
 a {
